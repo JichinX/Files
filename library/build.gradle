@@ -29,3 +29,4 @@ dependencies {
     implementation 'com.github.xujichang:Permissions:1.0.0-beta01'
     implementation 'com.google.guava:guava:29.0-android'
 }
+apply from: 'https://raw.githubusercontent.com/xujichang/push_gradle/master/upload.gradle'
